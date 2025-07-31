@@ -1,0 +1,24 @@
+<svg width="540" height="380" viewBox="0 0 540 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="380" fill="#1a1a1a"/>
+  
+  <!-- Applications folder icon -->
+  <rect x="50" y="200" width="80" height="60" rx="8" fill="#2d2d2d" stroke="#4a4a4a" stroke-width="2"/>
+  <rect x="60" y="210" width="60" height="40" rx="4" fill="#3a3a3a"/>
+  <rect x="70" y="220" width="40" height="3" rx="1" fill="#5a5a5a"/>
+  <rect x="70" y="230" width="30" height="3" rx="1" fill="#5a5a5a"/>
+  <rect x="70" y="240" width="35" height="3" rx="1" fill="#5a5a5a"/>
+  
+  <!-- Arrow -->
+  <path d="M200 230 L280 230 L260 210 L280 230 L260 250" stroke="#2563eb" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- App icon -->
+  <rect x="320" y="200" width="80" height="60" rx="12" fill="#2563eb"/>
+  <rect x="340" y="220" width="40" height="8" rx="2" fill="white"/>
+  <rect x="340" y="235" width="40" height="8" rx="2" fill="white"/>
+  <rect x="340" y="250" width="30" height="8" rx="2" fill="white"/>
+  <circle cx="380" cy="210" r="8" fill="#10b981"/>
+  
+  <!-- Text -->
+  <text x="270" y="150" text-anchor="middle" fill="white" font-family="system-ui" font-size="24" font-weight="600">Drag Alaka to Applications</text>
+  <text x="270" y="180" text-anchor="middle" fill="#9ca3af" font-family="system-ui" font-size="16">to install</text>
+</svg> 

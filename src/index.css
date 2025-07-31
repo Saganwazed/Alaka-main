@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    background-color: #000000;
+    overflow-x: hidden;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  #root {
+    background-color: #000000;
+    min-height: 100vh;
+  }
+  
+  /* Hide scrollbars */
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  * {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  /* Chat interface font */
+  .chat-message {
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .chat-input {
+    font-family: 'Quicksand', sans-serif;
+  }
+}
