@@ -24,7 +24,7 @@ A modern, privacy-focused AI chat application that runs locally on your Mac usin
 
 ### Installation
 
-1. **Download the latest release** from the [Releases page](https://github.com/yourusername/alaka/releases)
+1. **Download the latest release** from the [Releases page](https://github.com/YOUR_USERNAME/alaka/releases)
 2. **Install Ollama** if you haven't already:
    ```bash
    curl -fsSL https://ollama.ai/install.sh | sh
@@ -45,7 +45,7 @@ A modern, privacy-focused AI chat application that runs locally on your Mac usin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/alaka.git
+git clone https://github.com/YOUR_USERNAME/alaka.git
 cd alaka
 
 # Install dependencies
@@ -139,9 +139,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/alaka/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/alaka/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/alaka/wiki)
+- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/alaka/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/alaka/discussions)
+- **Documentation**: [Wiki](https://github.com/YOUR_USERNAME/alaka/wiki)
 
 ---
 
